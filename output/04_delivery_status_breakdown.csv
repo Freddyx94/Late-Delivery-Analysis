@@ -1,0 +1,5 @@
+delivery_status,orders,pct_of_orders,avg_days_vs_schedule,avg_revenue_per_order,avg_profit_per_order,profit_margin_pct
+Advance shipping,15127,23.0,-1.5,506.14,61.82,12.2
+Shipping on time,11722,17.8,0.0,503.82,62.37,12.4
+Shipping canceled,2855,4.3,0.58,493.78,56.21,11.4
+Late delivery,36048,54.8,1.62,501.62,59.37,11.8
