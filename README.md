@@ -19,6 +19,8 @@ answering where and why deliveries arrive late, and what it costs.
 
 Full analysis and recommendations: [FINDINGS.md](FINDINGS.md)
 
+![Power BI dashboard](dashboard/screenshot.png)
+
 ## How to run
 1. Download the dataset from Kaggle ("DataCo Smart Supply Chain for Big Data Analysis")
    and put `DataCoSupplyChainDataset.csv` in `data/`.
