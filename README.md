@@ -8,9 +8,7 @@ answering where and why deliveries arrive late, and what it costs.
 ## Business questions
 1. What share of orders arrive late, and is it improving over time?
 2. Which shipping modes and regions have the most late deliveries?
-3. Do late 
-- Late orders cost **profit margin (-0.5pp), not revenue** (-0.7%, noise-level).
-- **8 of 50 product categories drive ~85% of total profit**; no category loses money overall, but 15-24% of order lines in *every* category sell at a loss.deliveries reduce revenue or profit?
+3. Do late deliveries reduce revenue or profit?
 4. Which product categories drive profit, and which lose money?
 
 ## Key findings
