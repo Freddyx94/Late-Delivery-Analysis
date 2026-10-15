@@ -8,14 +8,16 @@ answering where and why deliveries arrive late, and what it costs.
 ## Business questions
 1. What share of orders arrive late, and is it improving over time?
 2. Which shipping modes and regions have the most late deliveries?
-3. Do late deliveries reduce revenue or profit?
+3. Do late 
+- Late orders cost **profit margin (-0.5pp), not revenue** (-0.7%, noise-level).
+- **8 of 50 product categories drive ~85% of total profit**; no category loses money overall, but 15-24% of order lines in *every* category sell at a loss.deliveries reduce revenue or profit?
 4. Which product categories drive profit, and which lose money?
 
 ## Key findings
-- **54.8% of orders arrive late**, and this hasn't improved over 3 years — it's held steady between 52-57% every month since Jan 2015.
-- Lateness is concentrated in **First Class / Second Class shipping**, in every region, and looks like a scheduling-promise issue (orders overrun by almost exactly 1 day, consistently) rather than a carrier-performance issue.
-- Late orders cost **profit margin (-0.5pp), not revenue** (-0.7%, noise-level).
-- **8 of 50 product categories drive ~85% of total profit**; no category loses money overall, but 15-24% of order lines in *every* category sell at a loss.
+- **54.8% of orders arrive late**, unchanged for 3 years (52–57% every month since Jan 2015).
+- **100% of First Class orders are late**: promised in 1 day, always delivered in exactly 2. Fixing that promise alone would cut the late rate from 57% to ~42%.
+- **Lateness does not measurably reduce revenue or profit** in this data: order value is fixed before shipping. The real cost is likely lost repeat customers.
+- **8 of 50 product categories drive 85% of profit**; ~1 in 5 order lines sells at a loss, regardless of discount level.
 
 Full analysis and recommendations: [FINDINGS.md](FINDINGS.md)
 
